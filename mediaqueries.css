@@ -120,6 +120,11 @@
         margin: auto;
     }
 
+      #about{
+      margin-top: 5rem;
+    }
+
+
     #about .section-container .about-pic img {
         height: 200px;
         width: 200px;
